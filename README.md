@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahil Ansari a young Web Developer, I'm @sahilllll-dev
-- 👀 I’m interested in New challengess everyday related to FullStack Development.
+- 👀 I’m interested in New challenges everyday related to FullStack Development.
 - 🌱 I’m currently learning FullStack Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact me on dev.sahil001@gmail.com.
